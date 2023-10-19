@@ -10,8 +10,8 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### Links
 
-- [Solution URL](https://www.frontendmentor.io/solutions/statspreviewcardcomponent-with-simple-html-and-css-PSEHkv5HEJ)
-- [Live Site URL](https://gamesdst.github.io/stats-preview-card-component/)
+- [Solution URL](https://www.frontendmentor.io/solutions/3columnpreviewcardcomponent-with-simple-html-and-css-5wCxfjLIdF)
+- [Live Site URL](https://gamesdst.github.io/3-column-preview-card-component/)
 
 ### Built with
 
